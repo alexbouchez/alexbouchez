@@ -6,7 +6,7 @@ Marché : PME et startups françaises.
 
 ## Ce que je publie ici
 
-- **MCP servers et plugins Claude Code** ([batch-mcp](https://github.com/alexandrebouchez/batch-mcp), [nano-banana](https://github.com/alexandrebouchez/nano-banana), [dougs-skills](https://github.com/alexandrebouchez/dougs-skills), [linkedin-plugins](https://github.com/alexandrebouchez/linkedin-plugins), [twitterapi-io-mcp](https://github.com/alexandrebouchez/twitterapi-io-mcp))
+- **MCP servers et plugins Claude Code** ([batch-mcp](https://github.com/alexbouchez/batch-mcp), [nano-banana](https://github.com/alexbouchez/nano-banana), [dougs-skills](https://github.com/alexbouchez/dougs-skills), [linkedin-plugins](https://github.com/alexbouchez/linkedin-plugins), [twitterapi-io-mcp](https://github.com/alexbouchez/twitterapi-io-mcp))
 - **Setup Claude profond** : workflows métier transcrits dans Claude via 5 couches (consignes système, projets Claude, agents, contexte métier, garde-fous)
 
 ## Liens
